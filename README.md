@@ -2,4 +2,6 @@
 
 ## Estudiante: Dante Ball
 
-Seguí los pasos del doc [acá](https://docs.google.com/document/d/e/2PACX-1vQkogtG88cmwEIXEuff291urSyrZUYHikLIoRTspUodvIg5OoaUJTi8n0vqPJ3XUSN65sqJALTBizeB/pub).
+![mi foto](foto.jpeg)
+hola soy Dante, empece a cursar en 2020. Me gusta pasar el tiempo con 
+amigos, ya sea jugando algun juego, charlando o haciendo deporte
